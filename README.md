@@ -1,7 +1,5 @@
 # Hi there, I'm Lucas Machado  :v:
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 * :computer: I'm studying Web Development at [Trybe]( https://www.betrybe.com/) - 2021-2022.
 * :space_invader: I like playing retro videogames and arcade games.
 * :guitar: I'm guitar player since 2007. Just for fun :stuck_out_tongue:
