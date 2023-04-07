@@ -1,8 +1,9 @@
 # Hi there, I'm Lucas Machado  :v:
 
-* :computer: I'm studying Web Development at [Trybe]( https://www.betrybe.com/) - 2021-2022.
+#### :computer: Welcome to my GitHub profile! I'm constantly learning and striving to improve my skills in web development and beyond.
 * :space_invader: I like playing retro videogames and arcade games.
 * :guitar: I'm guitar player since 2007. Just for fun :stuck_out_tongue:
+* :brain: Ask me about React.js and Node.js
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
