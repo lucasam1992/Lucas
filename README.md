@@ -1,8 +1,7 @@
 # Hi there, I'm Lucas Machado  :v:
 
 #### :computer: Welcome to my GitHub profile! I'm constantly learning and striving to improve my skills in web development and beyond.
-* :space_invader: I like playing retro videogames and arcade games.
-* :guitar: I'm guitar player since 2007. Just for fun :stuck_out_tongue:
+* Traveling allows us to not only see the world, but also to experience and learn about different cultures and countries. 🇨🇦 🇺🇾 🇨🇴
 * :brain: Ask me about React.js and Node.js
 
 <h3 align="left">Connect with me:</h3>
