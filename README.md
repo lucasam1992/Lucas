@@ -1,7 +1,6 @@
 # Hi there, I'm Lucas Machado  :v:
 
 #### :computer: I'm constantly learning and striving to improve my skills in web development and beyond.
-* Traveling allows us to not only see the world, but also to experience and learn about different cultures and countries. 🇨🇦 🇺🇾 🇨🇴
 * :brain: Ask me about React.js and Node.js
 
 <h3 align="left">Connect with me:</h3>
